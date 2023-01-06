@@ -1,16 +1,13 @@
 # Fdb version 3
-["bibtex /Users/alessiomorea/Desktop/Università/github/ProgettoEsame/latex/text"] 1672781622 "/Users/alessiomorea/Desktop/Università/github/ProgettoEsame/latex/text.aux" "/Users/alessiomorea/Desktop/Università/github/ProgettoEsame/latex/text.bbl" "/Users/alessiomorea/Desktop/Università/github/ProgettoEsame/latex/text" 1672781664
-  "/Users/alessiomorea/Desktop/Università/github/ProgettoEsame/latex/text.aux" 1672781664 874 a5f1e5e3e7a9bfc6a978b00f9ec5c57d "pdflatex"
+["bibtex text"] 1672873141 "text.aux" "text.bbl" "text" 1672873142
   "/usr/local/texlive/2022/texmf-dist/bibtex/bst/revtex/apsrev4-2.bst" 1601932770 69609 e9dea59f0e753ccda3ddc8f5806d846d ""
-  "biblio.bib" 1672754705 2416 fdb4663132090722031e400863d26e1e ""
+  "biblio.bib" 1672873114 3544 5e853da4c67b6df4546bf3582ee73258 ""
+  "text.aux" 1672873142 1070 635148cfcdcae56cdb622fe913744b14 "pdflatex"
   (generated)
-  "/Users/alessiomorea/Desktop/Università/github/ProgettoEsame/latex/text.bbl"
-  "/Users/alessiomorea/Desktop/Università/github/ProgettoEsame/latex/text.blg"
-["pdflatex"] 1672781663 "/Users/alessiomorea/Desktop/Università/github/ProgettoEsame/latex/text.tex" "/Users/alessiomorea/Desktop/Università/github/ProgettoEsame/latex/text.pdf" "text" 1672781664
-  "/Users/alessiomorea/Desktop/Università/github/ProgettoEsame/latex/text.aux" 1672781664 874 a5f1e5e3e7a9bfc6a978b00f9ec5c57d "pdflatex"
-  "/Users/alessiomorea/Desktop/Università/github/ProgettoEsame/latex/text.bbl" 1672781622 2459 108450f5ff38843edeae688004f04897 "bibtex /Users/alessiomorea/Desktop/Università/github/ProgettoEsame/latex/text"
-  "/Users/alessiomorea/Desktop/Università/github/ProgettoEsame/latex/text.out" 1672781664 78 b0418453fa1712f49c4a0eb1b9534c4b "pdflatex"
-  "/Users/alessiomorea/Desktop/Università/github/ProgettoEsame/latex/text.tex" 1672781663 1263 6286842f0eb88b29159d2fa24bbf4e76 ""
+  "text.bbl"
+  "text.blg"
+["pdflatex"] 1672873141 "/Users/alessiomorea/Desktop/Università/github/ProgettoEsame/latex/text.tex" "text.pdf" "text" 1672873142
+  "/Users/alessiomorea/Desktop/Università/github/ProgettoEsame/latex/text.tex" 1672873138 1347 d9893160b6f87afae0f714f92a356340 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/symbol/psyr.tfm" 1136768653 1408 5937f58aa508ea2cea4901c07d10f5fe ""
@@ -148,8 +145,12 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1663960005 4595816 106c4e272f709332e200b7ab82c17944 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1663960025 3058607 aefb219fd737112c4289611bc433892e ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
+  "text.aux" 1672873142 1070 635148cfcdcae56cdb622fe913744b14 "pdflatex"
+  "text.bbl" 1672873141 3370 f289641059210308e0eb75bce6b0a69b "bibtex text"
+  "text.out" 1672873142 78 b0418453fa1712f49c4a0eb1b9534c4b "pdflatex"
+  "text.tex" 1672873138 1347 d9893160b6f87afae0f714f92a356340 ""
   (generated)
-  "/Users/alessiomorea/Desktop/Università/github/ProgettoEsame/latex/text.aux"
-  "/Users/alessiomorea/Desktop/Università/github/ProgettoEsame/latex/text.log"
-  "/Users/alessiomorea/Desktop/Università/github/ProgettoEsame/latex/text.out"
-  "/Users/alessiomorea/Desktop/Università/github/ProgettoEsame/latex/text.pdf"
+  "text.aux"
+  "text.log"
+  "text.out"
+  "text.pdf"

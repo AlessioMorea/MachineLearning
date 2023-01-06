@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.23)  3 JAN 2023 22:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.23)  4 JAN 2023 23:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/alessiomorea/Desktop/Università/github/ProgettoEsame/latex/text.tex
-(/Users/alessiomorea/Desktop/Università/github/ProgettoEsame/latex/text.tex
+**/Users/alessiomorea/Desktop/Università/github/ProgettoEsame/latex/text.tex
+(/Users/alessiomorea/Desktop/Università/github/ProgettoEsame/latex/text.tex
 LaTeX2e <2022-06-01> patch level 5
 L3 programming layer <2022-08-30> (/usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
@@ -463,7 +463,7 @@ File: l3backend-pdftex.def 2022-08-30 L3 backend support: PDF output (pdfTeX)
 LaTeX Warning: Unused global option(s):
     [openany].
 
-(/Users/alessiomorea/Desktop/Università/github/ProgettoEsame/latex/text.aux)
+(./text.aux)
 \openout1 = `text.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
@@ -504,7 +504,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package hyperref Info: Link coloring OFF on input line 18.
- (/Users/alessiomorea/Desktop/Università/github/ProgettoEsame/latex/text.out) (/Users/alessiomorea/Desktop/Università/github/ProgettoEsame/latex/text.out)
+ (./text.out) (./text.out)
 \@outlinefile=\write4
 \openout4 = `text.out'.
 
@@ -554,7 +554,12 @@ Underfull \hbox (badness 1303) in paragraph at lines 31--31
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 34.
 (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-) (/Users/alessiomorea/Desktop/Università/github/ProgettoEsame/latex/text.bbl) [1
+) (./text.bbl
+Overfull \hbox (326.67613pt too wide) in paragraph at lines 64--69
+[]\OT1/ptm/m/n/12 A. Geron, |   []
+ []
+
+[1
 Non-PDF special ignored!
 <special> header=pstricks.pro
 Non-PDF special ignored!
@@ -574,23 +579,23 @@ Non-PDF special ignored!
 <special> ps:tx@Dict begin  gsave STV CP T /ps@refangle 0.  def grestore  e...
 Non-PDF special ignored!
 <special> ps:0.8 setlinewidth 0 setgray
-{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (/Users/alessiomorea/Desktop/Università/github/ProgettoEsame/latex/text.aux)
+{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) [2] (./text.aux)
 Package rerunfilecheck Info: File `text.out' has not changed.
 (rerunfilecheck)             Checksum: B0418453FA1712F49C4A0EB1B9534C4B;78.
  ) 
 Here is how much of TeX's memory you used:
- 18217 strings out of 475075
- 311914 string characters out of 5779003
- 660408 words of memory out of 5000000
- 39311 multiletter control sequences out of 15000+600000
+ 18222 strings out of 475075
+ 311257 string characters out of 5779003
+ 662539 words of memory out of 5000000
+ 39313 multiletter control sequences out of 15000+600000
  515791 words of font info for 133 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,8n,77p,479b,449s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,8n,77p,480b,588s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on /Users/alessiomorea/Desktop/Università/github/ProgettoEsame/latex/text.pdf (1 page, 28252 bytes).
+Output written on text.pdf (2 pages, 30908 bytes).
 PDF statistics:
- 36 PDF objects out of 1000 (max. 8388607)
- 28 compressed objects within 1 object stream
- 6 named destinations out of 1000 (max. 500000)
+ 48 PDF objects out of 1000 (max. 8388607)
+ 39 compressed objects within 1 object stream
+ 9 named destinations out of 1000 (max. 500000)
  9 words of extra memory for PDF output out of 10000 (max. 10000000)
 
